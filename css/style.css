@@ -853,7 +853,7 @@ template {
 
 .subscribe {
   position: relative;
-  width: 355px;
+  width: 350px;
   height: 55px;
   border-radius: 4px;
   overflow: hidden;
@@ -1041,6 +1041,16 @@ template {
     -webkit-box-align: start;
         -ms-flex-align: start;
             align-items: flex-start;
+  }
+  .newsletter-title {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .newsletter-title__strong {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
   }
 }
 
