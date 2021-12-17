@@ -869,6 +869,14 @@ template {
   font-weight: 300;
   font-size: 14px;
   line-height: 18px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.subscribe__input:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: 0;
 }
 
 .subscribe__button {
