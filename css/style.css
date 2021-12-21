@@ -1205,6 +1205,9 @@ template {
     width: 340px;
     height: 255px;
   }
+  .card__image {
+    height: 255px;
+  }
 }
 
 @media (max-width: 768px) {
