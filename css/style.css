@@ -1267,6 +1267,7 @@ template {
   height: 50px;
   -ms-flex-preferred-size: 48%;
       flex-basis: 48%;
+  outline: none;
   margin-bottom: 15px;
 }
 
@@ -1277,6 +1278,7 @@ template {
   border: none;
   -ms-flex-preferred-size: 100%;
       flex-basis: 100%;
+  outline: none;
   margin-bottom: 22px;
 }
 
