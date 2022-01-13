@@ -48,6 +48,7 @@ input, textarea, button, select, a {
   padding: 18px;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
   background-color: #EC1F46;
   color: #fff;
 }
@@ -487,6 +488,7 @@ template {
   height: 100%;
   width: 65px;
   border: none;
+  cursor: pointer;
   background-color: #EC1F46;
 }
 
@@ -929,6 +931,7 @@ template {
   font-weight: bold;
   font-size: 12px;
   line-height: 15px;
+  cursor: pointer;
   background-color: #EC1F46;
   color: #fff;
 }
