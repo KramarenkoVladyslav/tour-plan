@@ -508,6 +508,7 @@ template {
   border-radius: 50%;
   -o-object-fit: cover;
      object-fit: cover;
+  vertical-align: middle;
 }
 
 .user__name {
