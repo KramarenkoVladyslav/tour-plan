@@ -5,7 +5,7 @@ Written on:
 + SASS
 + JavaScript
 
-Library
+Library:
 + jQuery
 
 Phpmailer
