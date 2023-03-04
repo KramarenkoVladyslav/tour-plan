@@ -1,4 +1,4 @@
-# tour-plan
+# Tour-plan - Hotels and more
 
 Written on: 
 + HTML
